@@ -1,0 +1,47 @@
+# keisu.ke
+
+> 石上敬祐（Keisuke Ishigami）のポートフォリオサイト
+
+## About
+
+石上敬祐は株式会社サイバーエージェントのソフトウェアエンジニアです。Kubernetes の maintainer としても活動しています。
+
+## Skills
+
+- Programming Languages: C, Go, Python, Java, JavaScript
+- Expertise: 分散システム設計、広告配信サーバ開発、高スループット・低レイテンシシステム
+
+## Current Work
+
+- 所属: 株式会社サイバーエージェント AJA
+- 役割: Supply Side Platform のサーバ開発
+- OSS: Kubernetes maintainer
+
+## Education
+
+- 岐阜大学 工学部（2020年4月 - 2024年3月）
+- 42 Tokyo 本科（2022年1月 - 2023年4月）
+
+## Articles & Sessions
+
+- kubernetes/kubernetes の CI 基盤に deep dive！（CyberAgent Developers Blog）
+- Swiss Table の実装に Deep Dive !（Go Conference 2025）
+- go tool と Minimal Version Selection アルゴリズム（CA.go #16 LT大会）
+- 2 node で HA 構成を実現する Extended Raft Algorithm（CyberAgent Developers Blog）
+- 新卒が挑む、数万 QPS をさばく広告配信サーバのリクエスト制御（CyberAgent Developers Blog）
+- 内定者が ABEMA ワークロードの Redis コストを3割削減した話（CyberAgent Developers Blog）
+
+## Awards
+
+- 3位 - トンガリビジネスプランコンテスト 2023
+- 2位（優秀賞） - みやぎハッカソン 2023
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/keisuke-ishigami-b571b2238/
+- GitHub: https://github.com/kei01234kei/
+- X (Twitter): https://x.com/kei01234kei/
+
+## Website
+
+https://www.keisu.ke/
